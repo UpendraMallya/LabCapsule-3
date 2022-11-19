@@ -18,5 +18,6 @@ public void perimeter()
 	double peri=0;
 	peri = side1+side2+side3;
 	System.out.println("Perimeter is: "+ peri);		
+	System.out.println("Hi Upendra");
 	}
 }
